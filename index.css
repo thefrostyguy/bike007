@@ -1,0 +1,12 @@
+body{
+    background: url("https://wallpapercave.com/wp/wp9343692.jpg");
+}
+
+.topBanner{
+    width: auto;
+    max-height:30rem;
+}
+
+.insideBanner{
+    height:10rem
+}
